@@ -1,0 +1,7 @@
+<resources>
+    <color name="gradientStart">#66C8FF</color>
+    <color name="gradientEnd">#0F9DFF</color>
+    <color name="bubbleLeft">#F1F1F1</color>
+    <color name="bubbleRight">#E0EFFF</color>
+    <color name="btnGreen">#7CF8AA</color>
+</resources>
